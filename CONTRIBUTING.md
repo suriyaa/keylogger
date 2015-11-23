@@ -12,7 +12,7 @@
 
 [I'm](https://github.com/SuriyaaKudoIsc) recommend that you start by using these great and helpful steps to contribute in your way to this project:
 
-* **Explore** this project: https://github.com/SuriyaaKudoIsc/keylogger/subscription!
+* **Explore** this project: [Watch & Track the project](https://github.com/SuriyaaKudoIsc/keylogger/subscription)!
 * **Star** this project: Please star this project to help [Suriyaa](https://github.com/SuriyaaKudoIsc) to spread the project everywhere!
 * **Pull and Push codes** this project: Fork it and start coding!
 
