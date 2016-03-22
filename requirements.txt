@@ -1,0 +1,7 @@
+# requirements.txt file for Python
+
+## Test runner/testing utils
+nose
+
+## Documentation generation
+wheel==0.24
