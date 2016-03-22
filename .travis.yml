@@ -1,0 +1,33 @@
+# Travis CI
+
+## I prefer to explicitly send my builds to the container-based infrastructure
+sudo: false
+
+## The programmming language that I use
+language: python
+
+## Choosing Python versions to test against
+python:
+  - "2.6"
+  - "2.7"
+  - "3.2"
+  - "3.3"
+  - "3.4"
+  - "3.5"
+  - "3.5-dev" # 3.5 development branch
+  - "nightly" # currently points to 3.6-dev
+
+## Command to install dependencies
+install: "./.travis/install.sh"
+
+## Command to run tests
+script: nosetests
+
+## Disallow notifications
+notifications:
+  email: false
+
+## Run tests only for this git branches 
+branches:
+  only:
+    - master
