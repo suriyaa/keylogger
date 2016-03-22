@@ -19,8 +19,8 @@ python:
 
 ## Command to install dependencies before
 before_script:
-  - chmod +x ./.travis/install.sh
-  - ./.travis/install.sh
+  - chmod +x .travis/install.sh
+  - .travis/install.sh
 
 ## Command to run tests
 script: nosetests
