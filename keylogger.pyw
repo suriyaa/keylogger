@@ -35,4 +35,4 @@ def OnKeyboardEvent(event):
 hooks_manager = pyHook.HookManager()
 hooks_manager.KeyDown = OnKeyboardEvent
 hooks_manager.HookKeyboard()
-pythoncom.OumpMessages()
+pythoncom.PumpMessages()
