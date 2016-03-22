@@ -1,4 +1,4 @@
-# keylogger [![Build Status](https://travis-ci.org/SuriyaaKudoIsc/keylogger.svg?branch=master)](https://travis-ci.org/SuriyaaKudoIsc/keylogger)
+# Suriyaa's Keylogger [![Build Status](https://travis-ci.org/SuriyaaKudoIsc/keylogger.svg?branch=master)](https://travis-ci.org/SuriyaaKudoIsc/keylogger)
 
 > A Simple Python Keylogger
 
