@@ -8,5 +8,6 @@
 You must read these files first!:
 
 * [CONTRIBUTING.md](CONTRIBUTING.md)
+* [INSTALL.md](INSTALL.md)
 * [HELP.md](HELP.md)
 * [LICENSE.md](LICENSE.md)
