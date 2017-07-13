@@ -1,4 +1,5 @@
-# Suriyaa's Keylogger [![Build Status](https://travis-ci.org/SuriyaaKudoIsc/keylogger.svg?branch=master)](https://travis-ci.org/SuriyaaKudoIsc/keylogger) [![CircleCI](https://img.shields.io/circleci/project/github/SuriyaaKudoIsc/keylogger.svg)](https://circleci.com/gh/SuriyaaKudoIsc/keylogger) [![Build status](https://ci.appveyor.com/api/projects/status/xq9av4020rma9dhu?svg=true)](https://ci.appveyor.com/project/SuriyaaKudoIsc/keylogger)
+# Suriyaa's Keylogger [![Travis](https://img.shields.io/travis/SuriyaaKudoIsc/keylogger.svg?style=flat-square)](https://travis-ci.org/SuriyaaKudoIsc/keylogger) [![CircleCI](https://img.shields.io/circleci/project/github/SuriyaaKudoIsc/keylogger.svg?style=flat-square)](https://circleci.com/gh/SuriyaaKudoIsc/keylogger) [![AppVeyor](https://img.shields.io/appveyor/ci/SuriyaaKudoIsc/keylogger.svg?style=flat-square)](https://ci.appveyor.com/project/SuriyaaKudoIsc/keylogger)
+
 > A **Simple Python Keylogger** build by [Suriyaa Kudo](https://j.mp/ItsSuriyaa). 
 
 ![I found an Open Source Keylogger from Suriyaa on GitHub](https://cloud.githubusercontent.com/assets/5073946/19219911/c95ca976-8e20-11e6-9250-e73cfb5c7c75.jpg)
