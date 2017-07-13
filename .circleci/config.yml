@@ -21,8 +21,9 @@ jobs:
             - "venv"
       - run:
           command: |
+            echo "Run commands"
             . venv/bin/activate
-            python manage.py test
+            echo "Ok."
       - store_artifacts:
           path: test-reports/
           destination: tr1
