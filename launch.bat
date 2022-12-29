@@ -1,7 +1,7 @@
 @echo off
 
 REM Open folder:
-REM start "" "C:\Users\Suriyaa\Downloads\keylogger"
+REM start "" "C:\Users\your_username_here\path_to_your_keylogger_program\keylogger"
 
 REM Run .exe file:
 start "" "<paste the path of a program here>"

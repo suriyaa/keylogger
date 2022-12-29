@@ -5,14 +5,14 @@
              // custom message using @pullRequester and @reviewers
   "alwaysNotifyForPaths": [
     {
-      "name": "SuriyaaKudoIsc", // The user's Github username
+      "name": "suriyaa", // The user's Github username
       "files": ["*.*"], // The array of file globs associated with the user
       "skipTeamPrs": false // mention-bot will exclude the creator's own team from mentions
     }
   ], // Users will always be mentioned based on file glob
   "fallbackNotifyForPaths": [
     {
-      "name": "SuriyaaKudoIsc", // The user's Github username
+      "name": "suriyaa", // The user's Github username
       "files": ["*.*"], // The array of file globs associated with the user
       "skipTeamPrs": false // mention-bot will exclude the creator's own team from mentions
     }

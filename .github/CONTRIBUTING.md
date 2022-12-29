@@ -4,16 +4,10 @@
 
 ----
 
-###### GitHub is home to more than 5 million open source projects. XD
+[I'm](https://github.com/suriyaa) recommend that you start by using these great and helpful steps to contribute in your way to this project:
 
-#### It's time that YOU are going to contribute to THIS project! :-D
-
-----
-
-[I'm](https://github.com/SuriyaaKudoIsc) recommend that you start by using these great and helpful steps to contribute in your way to this project:
-
-* **Explore** this project: [Watch & Track the project](https://github.com/SuriyaaKudoIsc/keylogger/subscription)!
-* **Star** this project: Please star this project to help [Suriyaa](https://github.com/SuriyaaKudoIsc) to spread the project everywhere!
+* **Explore** this project: [Watch & Track the project](https://github.com/suriyaa/keylogger/subscription)!
+* **Star** this project: Please star this project to help [Suriyaa](https://github.com/suriyaa) to spread the project everywhere!
 * **Pull and Push codes** this project: Fork it and start coding!
 
 Thanks for your help!

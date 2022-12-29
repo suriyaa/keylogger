@@ -11,7 +11,7 @@
 #                      \______/                \______/  \______/                     
 #          __                                                                         
 #    /    (    _ '  _ _                                                               
-#   ()(/ __)(// /(/(/(/         @ https://github.com/SuriyaaKudoIsc/keylogger         
+#   ()(/ __)(// /(/(/(/         @ https://github.com/suriyaa/keylogger         
 #     /          /                                                                    
 
 
@@ -21,7 +21,7 @@ import pythoncom
 import sys
 import logging
 
-print("[!] legal disclaimer: Usage of Suriyaa Kudo's keylogger for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.")
+print("[!] legal disclaimer: Usage of this keylogger for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.")
 
 ## File log path (set it whatever you want!)
 file_log = 'C:\\Program Files\\keylogger\\log.txt'

