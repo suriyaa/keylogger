@@ -29,3 +29,6 @@ If this project brings value to you, you can give me a cup of coffee. :-)
 - With [PayPal](https://www.paypal.me/suriyaasundararuban) in any fiat currency:
 
 [![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UZRFM579K6FL2&source=url)
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=suriyaa/keylogger&type=Date)](https://star-history.com/#suriyaa/keylogger&Date)
