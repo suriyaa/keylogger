@@ -13,7 +13,7 @@ Please read these files first before starting:
 * [CONTRIBUTING.md](.github/CONTRIBUTING.md) - Pull requests are welcome!
 
 ## Legal Disclaimer
-The usage of this keylogger project for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. The developersbehind the project assume no liability and are not responsible for any misuse or damage caused by this program.
+The usage of this keylogger project for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. The developers behind the project assume no liability and are not responsible for any misuse or damage caused by this program.
 
 ## Code of Conduct
 In order to have a more open and welcoming community, [Suriyaa](https://github.com/suriyaa) adheres to a [code of conduct](CONDUCT.md) adapted from the [Bunto code of conduct](https://github.com/bunto/bunto/blob/master/CONDUCT.markdown).
