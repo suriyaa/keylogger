@@ -16,7 +16,7 @@ Please read these files first before starting:
 The usage of this keylogger project for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. The developers behind the project assume no liability and are not responsible for any misuse or damage caused by this program.
 
 ## Code of Conduct
-In order to have a more open and welcoming community, [Suriyaa](https://github.com/suriyaa) adheres to a [code of conduct](CONDUCT.md) adapted from the [Bunto code of conduct](https://github.com/bunto/bunto/blob/master/CONDUCT.markdown).
+In order to have a more open and welcoming community, [Suriyaa](https://github.com/suriyaa) adheres to a [code of conduct](CODE_OF_CONDUCT.md) adapted from the [Bunto code of conduct](https://github.com/bunto/bunto/blob/master/CONDUCT.markdown).
 
 Please adhere to this code of conduct in any interactions you have in the GitHub community. It is strictly enforced on all official repositories, websites, and resources of [Suriyaa](https://github.com/suriyaa). If you encounter someone violating these terms, please let a maintainer ([@suriyaa](https://github.com/suriyaa)) know and he will address it as soon as possible.
 
