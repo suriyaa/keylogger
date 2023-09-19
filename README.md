@@ -12,6 +12,8 @@ Please read these files first before starting:
 * [INSTALL.md](INSTALL.md) - How to use the program
 * [CONTRIBUTING.md](.github/CONTRIBUTING.md) - Pull requests are welcome!
 
+## Legal Disclaimer
+The usage of this keylogger project for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. The developersbehind the project assume no liability and are not responsible for any misuse or damage caused by this program.
 
 ## Code of Conduct
 In order to have a more open and welcoming community, [Suriyaa](https://github.com/suriyaa) adheres to a [code of conduct](CONDUCT.md) adapted from the [Bunto code of conduct](https://github.com/bunto/bunto/blob/master/CONDUCT.markdown).
@@ -24,6 +26,7 @@ You can find some legal blah blah blah... here: [LICENSE.md](LICENSE.md).
 ## Donate
 If this project brings value to you, you can give me a cup of coffee. :-)
 
+- [Donation website](https://blog.suriyaa.tk/donate/)
 - [via GitHub Sponsors](https://github.com/sponsors/suriyaa)
 - With [Bitcoin](https://about.suriyaa.tk/bitcoin-signature.txt) (or with a [cryptocurrency](https://commerce.coinbase.com/checkout/29b88d93-5fc3-40f5-a11c-ab8def95e3dd) of your choice)
 - With [PayPal](https://www.paypal.me/suriyaasundararuban) in any fiat currency:
