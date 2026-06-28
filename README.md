@@ -35,3 +35,11 @@ If this project brings value to you, you can give me a cup of coffee. :-)
 
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=suriyaa/keylogger&type=Date)](https://star-history.com/#suriyaa/keylogger&Date)
+
+<a href="https://starmapper.bruniaux.com/suriyaa/keylogger?utm_source=map-embed&utm_medium=readme&utm_campaign=stargazer-map">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://starmapper.bruniaux.com/api/map-image/suriyaa/keylogger?theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://starmapper.bruniaux.com/api/map-image/suriyaa/keylogger?theme=light" />
+    <img alt="StarMapper" src="https://starmapper.bruniaux.com/api/map-image/suriyaa/keylogger" />
+  </picture>
+</a>
